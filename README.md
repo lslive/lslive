@@ -29,11 +29,7 @@
 
 <div align="center"><img src="https://raw.githubusercontent.com/Achuan-2/Achuan-2/main/assets/github-contribution-grid-snake.svg" ></div>
 
-## My Github Activity Graph
 
-[![Sliverkiss's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Sliverkiss&theme=github)](https://github.com/yumuing/github-readme-activity-graph)
-
-<!--
 **lslive/lslive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -46,4 +42,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
