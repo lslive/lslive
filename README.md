@@ -27,7 +27,10 @@
 
 ## My GitHub Contributions
 
-<div align="center"><img src="https://raw.githubusercontent.com/Achuan-2/Achuan-2/main/assets/github-contribution-grid-snake.svg" ></div>
+<div align="center">
+<!--     <img src="https://raw.githubusercontent.com/Achuan-2/Achuan-2/main/assets/github-contribution-grid-snake.svg" > -->
+    ![](https://github.com/Evil0ctal/Evil0ctal/blob/main/images/github-contribution-grid-snake.svg)
+</div>
 
 
 **lslive/lslive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
